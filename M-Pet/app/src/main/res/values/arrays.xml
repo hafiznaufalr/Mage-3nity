@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="places">
+        <item>Andy Pet Shop</item>
+        <item>Aquazone aquarium</item>
+        <item>Bobby Pet Shop</item>
+        <item>Bobby Pet Shop 3</item>
+        <item>Bobby Pet Shop Singosari</item>
+        <item>Brawijaya Pet Shop</item>
+        <item>Buchi Petshop</item>
+        <item>Budi Pet Shop</item>
+        <item>Didi Pet House</item>
+        <item>Flying Baby Pet Shop</item>
+        <item>Gerhana Pet Shop</item>
+        <item>Golden Pet Shop</item>
+        <item>Hobby Mart</item>
+        <item>House Of Pet</item>
+        <item>Mickey Pet Shop </item>
+        <item>My Hobby</item>
+        <item>Pets Nation</item>
+        <item>Purple Pet Shop </item>
+        <item>Sarry Groming Pet Shop</item>
+        <item>Surya Sangkar </item>
+        <item>Toko Barokah</item>
+        <item>Toko Pak Edi</item>
+        <item>Toko pakan burung joko</item>
+        <item>Toko Pakan Burung Laseman</item>
+        <item>Toko Pakan Ternak</item>
+        <item>TOKO SANDAR BURUNG PIPIT</item>
+        <item>Tutu Cat’s House</item>
+        <item>UNI PET</item>
+        <item>VDB PET SHOP</item>
+
+    </string-array>
+
+    <string-array name="place_desc">
+        <item>Andy Pet Shop</item>
+        <item>Aquazone aquarium</item>
+        <item>Bobby Pet Shop</item>
+        <item>Bobby Pet Shop 3</item>
+        <item>Bobby Pet Shop Singosari</item>
+        <item>Brawijaya Pet Shop</item>
+        <item>Buchi Petshop</item>
+        <item>Budi Pet Shop</item>
+        <item>Didi Pet House</item>
+        <item>Flying Baby Pet Shop</item>
+        <item>Gerhana Pet Shop</item>
+        <item>Golden Pet Shop</item>
+        <item>Hobby Mart</item>
+        <item>House Of Pet</item>
+        <item>Mickey Pet Shop </item>
+        <item>My Hobby</item>
+        <item>Pets Nation</item>
+        <item>Purple Pet Shop </item>
+        <item>Sarry Groming Pet Shop</item>
+        <item>Surya Sangkar </item>
+        <item>Toko Barokah</item>
+        <item>Toko Pak Edi</item>
+        <item>Toko pakan burung joko</item>
+        <item>Toko Laseman</item>
+        <item>Toko Pakan Ternak</item>
+        <item>TOKO SANDAR </item>
+        <item>Tutu Cat’s House</item>
+        <item>UNI PET</item>
+        <item>VDB PET SHOP</item>
+
+
+    </string-array>
+
+    <string-array name="place_details">
+        <item> Jl. Sunan Kalijaga No.17, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144 ( 0822-4557-1572)</item>
+        <item>Jalan Jenderal Ahmad Yani No.10 C, *fly over Arjosari lewat jalan bawah, Polowijen, Blimbing, Kota Malang, Jawa Timur 65126 ((0341) 483839)</item>
+        <item>Jl. Laksda Adi Sucipto No.47, Blimbing, Kota Malang, Jawa Timur 65126. ((0341)2949392)</item>
+        <item> Jalan Maninjau Barat, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 (0857-5556-3666)</item>
+        <item> Jl. Raya Singosari No.52, Pagentan, Singosari, Malang, Jawa Timur 65153.(0856-4644-6455) </item>
+        <item> Jl. Brawijaya No.31, Kauman, Klojen, Kota Malang, Jawa Timur 65119 (0812-3532-6734)</item>
+        <item> Jl. Sebuku No.20, Bunulrejo, Blimbing, Kota Malang, Jawa Timur 65126( 0813-3058-1243)</item>
+        <item>Jl. Brawijaya No.20, Kauman, Klojen, Kota Malang, Jawa Timur 65119. (0851-0174-0431)</item>
+        <item>Jl. Danau Kerinci Raya C2 No. F16, Sawojajar, Kedungkandang, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 (0821-2256-2525)</item>
+        <item> Jl. Kawi No.1, Kauman, Klojen, Kota Malang, Jawa Timur 65119.((0341) 351424) </item>
+        <item>Jl. Margo Basuki No.96, Mulyoagung, Dau, Malang, Jawa Timur 65151 ((0341) 460986)</item>
+        <item> Jl. Buring No.11, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65112 ((0341) 335678)</item>
+        <item>Mal Olympic Garden, Jl. Kawi No.20, Kauman, Klojen, Kota Malang, Jawa Timur 65119 ((0341) 9756354.)</item>
+        <item>Jalan Sukarno Hatta, Ruko Sukarno Hatta Bisnis Center Kav-22, Dokter Hewan, Petshop, Grooming, Penitipan, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142 ((0341) 4371400)</item>
+        <item> Jl. Borobudur No.12A, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142  (0341) 405327</item>
+        <item> Jl. Laksda Adi Sucipto, Blimbing, Kota Malang, Jawa Timur 65126 (0878-5241-8153) </item>
+        <item>Mal Olympic Garden, Jl. Kawi No.20, Kauman, Klojen, Kota Malang, Jawa Timur 65119 (0878-5906-5084)</item>
+        <item> Jl. Soekarno Hatta No.34, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142 (0822-2500-0250) </item>
+        <item>Jalan Danau Maninjau Selatan Blok.D1 No.21, Sawojajar, Kedungkandang, Sawojajar, Kedungkandang, Malang, Jawa Timur 65137 (0858-5999-1282)</item>
+        <item>Jalan Raya Muharto No.22, Kotalama, Kedungkandang, Jodipan, Blimbing, Kota Malang, Jawa Timur 65136 (0878-5684-1266)</item>
+        <item> Jl. Tumapel, Kauman, Klojen, Kota Malang, Jawa Timur 65119  (0341) 9018861</item>
+        <item> Jl. Raya Wagir, Sitirejo, Wagir, Malang, Jawa Timur 65162 ((0341) 9311412)</item>
+        <item> pasar splindid no.70, jl brawijaya, Kauman, Klojen, Malang, Jawa Timur 65119 (0812-3245-1224) </item>
+        <item>Jalan Candi, Gading Kasri, Klojen, Kota Malang, Jawa Timur 65115 (0813-3347-2453)</item>
+        <item> Gang 5 Jl. Margo Basuki, Mulyoagung, Dau, Malang, Jawa Timur 65151 ((0341) 9976923) </item>
+        <item>Jalan Sido Makmur Sengkaling, Mulyoagung, Dau, Malang, Jawa Timur 65151 ( (0341) 464452)</item>
+        <item> Ruko Ps. Sawojajar, Jl. Danau Kerinci Blok F9, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 (0812-2160-0030) </item>
+        <item> Jl. Danau Bratan E1 No. C 28, Sawojajar, Kedungkandang, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 (0813-3315-1244)</item>
+        <item>Jl. Indragiri II No.27, Purwantoro, Blimbing, Kota Malang, Jawa Timur 65126 (0812-2888-6000) </item>
+
+    </string-array>
+
+    <string-array name="place_locations">
+        <item>Senin	08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–20.00\nMinggu 08.00–20.00
+</item>
+        <item>Senin	08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–20.00\nMinggu 08.00–15.00</item>
+        <item>Senin	08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+        <item>Senin	08.00–17.00\nSelasa 08.00–17.00\nRabu 08.00–17.00\nKamis 08.00–17.00\nJumat 08.00–17.00\nSabtu 08.00–17.00\nMinggu 08.00–17.00</item>
+        <item>Senin	09.00–19.00\nSelasa 09.00–19.00\nRabu 09.00–19.00\nKamis 09.00–19.00\nJumat 09.00–19.00\nSabtu 09.00–19.00\nMinggu 09.00–19.00</item>
+        <item>Senin	07.00–16.00\nSelasa 07.00–16.00\nRabu 07.00–16.00\nKamis 07.00–16.00\nJumat 07.00–16.00\nSabtu 07.00–16.00\nMinggu 07.00–16.00</item>
+        <item>Senin	08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–17.00\nMinggu 08.00–12.00</item>
+        <item>Senin	07.00–17.00\nSelasa 07.00–17.00\nRabu 07.00–17.00\nKamis 07.00–17.00\nJumat Tutup\nSabtu 07.00–17.00\nMinggu 07.00–17.00</item>
+        <item>Senin	08.00–19.00\nSelasa 08.00–19.00\nRabu 08.00–19.00\nKamis 08.00–19.00\nJumat 08.00–19.00\nSabtu 08.00–19.00\nMinggu 08.00–19.00</item>
+        <item>Senin	08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+        <item>Senin	07.30–21.00\nSelasa 07.30–21.00\nRabu 07.30–21.00\nKamis 07.30–21.00\nJumat 07.30–21.00\nSabtu 07.30–21.00\nMinggu 07.30–21.00</item>
+        <item>Senin	08.00–17.00\nSelasa 08.00–17.00\nRabu 08.00–17.00\nKamis 08.00–17.00\nJumat 08.00–17.00\nSabtu 08.00–17.00\nMinggu Tutup</item>
+        <item>Senin	10.00–22.00\nSelasa 10.00–22.00\nRabu 10.00–22.00\nKamis 10.00–22.00\nJumat 10.00–22.00\nSabtu 10.00–22.00\nMinggu 10.00–22.00</item>
+        <item>Senin	08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+        <item>Senin	07.00–21.00\nSelasa 07.00–21.00\nRabu 07.00–21.00\nKamis 07.00–21.00\nJumat 07.00–21.00\nSabtu 07.00–21.00\nMinggu 08.00–21.00</item>
+        <item>Senin	08.30–18.00\nSelasa 08.30–18.00\nRabu 08.30–18.00\nKamis 08.30–18.00\nJumat 08.30–18.00\nSabtu 08.30–18.00\nMinggu 08.30–18.00</item>
+        <item>Senin	10.00–22.00\nSelasa 10.00–22.00\nRabu 10.00–22.00\nKamis 10.00–22.00\nJumat 10.00–22.00\nSabtu 10.00–22.00\nMinggu 10.00–22.00</item>
+        <item>Senin	07.00–22.00\nSelasa 07.00–22.00\nRabu 07.00–22.00\nKamis 07.00–22.00\nJumat 07.00–22.00\nSabtu 07.00–22.00\nMinggu 08.00–22.00</item>
+        <item>Senin	08.00–19.00\nSelasa 08.00–19.00\nRabu 08.00–19.00\nKamis 08.00–19.00\nJumat 08.00–19.00\nSabtu 08.00–19.00\nMinggu 08.00–19.00</item>
+        <item>Senin	07.00–18.00\nSelasa 07.00–18.00\nRabu 07.00–18.00\nKamis 07.00–18.00\nJumat 07.00–18.00\nSabtu 07.00–18.00\nMinggu 08.00–18.00</item>
+        <item>Senin	08.00–16.30\nSelasa 08.00–16.30\nRabu 08.00–16.30\nKamis 08.00–16.30\nJumat 08.00–16.30\nSabtu 08.00–16.30\nMinggu 08.00–16.30</item>
+        <item>Senin	07.00–17.00\nSelasa 07.00–17.00\nRabu 07.00–17.00\nKamis 07.00–17.00\nJumat 07.00–17.00\nSabtu 07.00–17.00\nMinggu Tutup</item>
+        <item>Senin	07.00–17.00\nSelasa 07.00–17.00\nRabu 07.00–17.00\nKamis 07.00–17.00\nJumat 07.00–17.00\nSabtu 07.00–17.00\nMinggu 07.00–17.00</item>
+        <item>Senin	08.00–18.00\nSelasa 08.00–18.00\nRabu 08.00–18.00\nKamis 08.00–18.00\nJumat 08.00–18.00\nSabtu 08.00–18.00\nMinggu 08.00–18.00</item>
+        <item>Senin	07.00–16.00\nSelasa 07.00–16.00\nRabu 07.00–16.00\nKamis 07.00–16.00\nJumat 07.00–16.00\nSabtu 07.00–16.00\nMinggu 07.00–16.00</item>
+        <item>Senin	07.30–16.00\nSelasa 07.30–16.00\nRabu 07.30–16.00\nKamis 07.30–16.00\nJumat 07.30–16.00\nSabtu 07.30–16.00\nMinggu 07.30–16.00</item>
+        <item>Senin	07.00–16.00\nSelasa 07.00–16.00\nRabu 07.00–16.00\nKamis 07.00–16.00\nJumat 07.00–16.00\nSabtu 07.00–16.00\nMinggu 07.00–16.00</item>
+        <item>Senin	08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+        <item>Senin	09.00–20.00\nSelasa 09.00–20.00\nRabu 09.00–20.00\nKamis 09.00–20.00\nJumat 09.00–20.00\nSabtu 09.00–20.00\nMinggu 09.00–17.00</item>
+
+
+
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/s1</item>
+        <item>@drawable/s2</item>
+        <item>@drawable/s3</item>
+        <item>@drawable/s4</item>
+        <item>@drawable/s5</item>
+        <item>@drawable/s6</item>
+        <item>@drawable/s7</item>
+        <item>@drawable/s8</item>
+        <item>@drawable/s9</item>
+        <item>@drawable/s10</item>
+        <item>@drawable/s11</item>
+        <item>@drawable/s12</item>
+        <item>@drawable/s13</item>
+        <item>@drawable/s14</item>
+        <item>@drawable/s15</item>
+        <item>@drawable/s16</item>
+        <item>@drawable/s17</item>
+        <item>@drawable/s18</item>
+        <item>@drawable/s19</item>
+        <item>@drawable/s20</item>
+        <item>@drawable/s21</item>
+        <item>@drawable/s22</item>
+        <item>@drawable/s23</item>
+        <item>@drawable/s24</item>
+        <item>@drawable/s25</item>
+        <item>@drawable/s26</item>
+        <item>@drawable/s27</item>
+        <item>@drawable/s28</item>
+        <item>@drawable/s29</item>
+    </array>
+
+
+    <string-array name="places2">
+        <item>Buchi Pets</item>
+        <item>Dokter Hewan Dedy Ananto</item>
+        <item>Dokter Hewan dan Kimmy Pet Shop</item>
+        <item>Dokter Hewan Didik Saptono</item>
+        <item>Dokter Hewan Lely Malang</item>
+        <item>Dokter Hewan Rakki Pet Malang</item>
+        <item>House Of Pet</item>
+        <item>Klinik Dokter Hewan Iman Setyowati K</item>
+        <item>Klinik Hewan Pendidikan PKH UB </item>
+        <item>Panthera Vet </item>
+        <item>Praktek Drh. Asih Kurnia S., M</item>
+        <item>(PDHB) Satwa Sehat Malang</item>
+        <item>Praktek Dokter Hewan "drh. M. Arfan </item>
+
+    </string-array>
+
+    <string-array name="place_desc2">
+        <item>Buchi Pets</item>
+        <item>Dokter  Dedy Ananto</item>
+        <item>Dokter Hewan dan Kimmy ...</item>
+        <item>Dokter Didik Saptono</item>
+        <item>Dokter Hewan Lely Malang</item>
+        <item> Rakki Pet Malang</item>
+        <item>House Of Pet</item>
+        <item>Klinik Dokter Iman..</item>
+        <item>Klinik Hewan Pendidikan... </item>
+        <item>Panthera Vet </item>
+        <item>Praktek Dokter Hewan...</item>
+        <item>(PDHB) Satwa Sehat </item>
+        <item> "drh. M. Arfan Lesmana" </item>
+    </string-array>
+
+    <string-array name="place_details2">
+        <item> Jl. Sebuku No.20, Bunulrejo, Blimbing, Kota Malang, Jawa Timur 65126 (0813-3058-1243)</item>
+        <item> H1B30 Sawojajar, Jl. Danau Sentani, Madyopuro, Kedungkandang, Kota Malang, Jawa Timur 65139 (0838-3476-3800)</item>
+        <item> Jl. Kaliurang No.68, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65111 (0857-2590-0450)</item>
+        <item>Jalan Raya Langsep No.59, Bareng, Klojen, Bareng, Klojen, Kota Malang, Jawa Timur 65146 (0812-3588-406)</item>
+        <item>Jalan Bunga Lely No.54, Jatimulyo, Kecamatan Lowokwaru, Jatimulyo, Malang (0857-3030-0853) </item>
+        <item>jl. Kalpataru No.68A, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141 (0812-1622-4272)</item>
+        <item>jalan Sukarno Hatta, Ruko Sukarno Hatta Bisnis Center Kav-22 Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142 ((0341) 4371400)</item>
+        <item>Jl. Danau Maninjau Barat Blok B2 - A34, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 ((0341) 712523) </item>
+        <item>Jl. M.T. Haryono No.169, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145 ((0341) 712523)</item>
+        <item>Jl. Candisari 2 No.8, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142 (0812-2797-5280)</item>
+        <item> Blok H Kavling,Jl. Bantaran Indah No.11, Tulusrejo, Lowokwaru, Kota Malang , Jawa Timur 65141 (0817-582-660)</item>
+        <item>Jalan Raya Candi V Ruko Grand Candi 368 Kav.10, Karangbesuki, Sukun, Karangbesuki, Sukun, Malang, Jawa Timur 65146 ( 0821-8703-5969)</item>
+        <item>Jalan Danau Bratan Timur X Blok K21, Madyopuro, Kedungkandang, Madyopuro, Kedungkandang, Kota Malang, Jawa Timur 65138 (0815-7801-1993)  </item>
+
+
+    </string-array>
+
+    <string-array name="place_locations2">
+        1<item>Senin 08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–17.00\nMinggu 08.00–12.00</item>
+        22 <item tools:ignore="TypographyDashes">Senin 08.00–10.00,16.00-18.00\nSelasa 08.00–10.00,16.00-18.00\nRabu 08.00–10.00,16.00-18.00\nKamis 08.00–10.00,16.00-18.00\nJumat 08.00–10.00,16.00-18.00\nSabtu 08.00–10.00,16.00-18.00\nMinggu 08.00–10.00,16.00-18.00</item>
+       2 <item>Senin 10.00–21.00\nSelasa 10.00–21.00\nRabu 10.00–21.00\nKamis 10.00–21.00\nJumat 10.00–21.00\nSabtu 10.00–21.00\nMinggu 10.00–21.00</item>
+       3 <item tools:ignore="TypographyDashes">Senin 08.00–11.00,17.00-20.00\nSelasa 08.00–11.00,17.00-20.00\nRabu 08.00–11.00,17.00-20.00\nKamis 08.00–11.00,17.00-20.00\nJumat 08.00–11.00,17.00-20.00\nSabtu 08.00–11.00,17.00-20.00\nMinggu Tutup</item>
+        4<item>Senin 16.00–20.00\nSelasa 16.00–20.00\nRabu 16.00–20.00\nKamis 16.00–20.00\nJumat 16.00–20.00\nSabtu 16.00–20.00\nMinggu Tutup</item>
+       5 <item>Senin 08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–20.00\nMinggu 08.00–20.00</item>
+       6 <item>Senin 08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+       7 <item tools:ignore="TypographyDashes">Senin 08.00–12.00,17.00-20.00\nSelasa 08.00–12.00,17.00-20.00\nRabu 08.00–12.00,17.00-20.00\nKamis 08.00–12.00,17.00-20.00\nJumat 08.00–12.00,17.00-20.00\nSabtu 08.00–12.00,17.00-20.00\nMinggu Tutup</item>
+       8 <item>Senin 07.30–16.00\nSelasa 07.30–16.00\nRabu 07.30–16.00\nKamis 07.30–16.00\nJumat 07.30–16.00\nSabtu Tutup\nMinggu Tutup</item>
+      9  <item>Senin 08.00–20.00\nSelasa 08.00–20.00\nRabu 08.00–20.00\nKamis 08.00–20.00\nJumat 08.00–20.00\nSabtu 08.00–20.00\nMinggu Tutup</item>
+      0  <item>Senin 09.00–19.00\nSelasa 09.00–19.00\nRabu 09.00–19.00\nKamis 09.00–19.00\nJumat 09.00–19.00\nSabtu 09.00–19.00\nMinggu Tutup</item>
+      1  <item>Senin 08.00–19.30\nSelasa 08.00–19.30\nRabu 08.00–19.30\nKamis 08.00–19.30\nJumat 08.00–19.30\nSabtu 08.00–19.30\nMinggu 08.00–19.30</item>
+        2<item>Senin 18.00–20.00\nSelasa 18.00–20.00\nRabu 18.00–20.00\nKamis 18.00–20.00\nJumat 18.00–20.00\nSabtu 18.00–20.00\nMinggu 18.00–20.00</item>
+
+
+
+
+    </string-array>
+
+    <array name="places_picture2">
+        <item>@drawable/c1</item>
+        <item>@drawable/rr</item>
+        <item>@drawable/c2</item>
+        <item>@drawable/c3</item>
+        <item>@drawable/c4</item>
+        <item>@drawable/c5</item>
+        <item>@drawable/c6</item>
+        <item>@drawable/c7</item>
+        <item>@drawable/c8</item>
+        <item>@drawable/c9</item>
+        <item>@drawable/c10</item>
+        <item>@drawable/c11</item>
+        <item>@drawable/c12</item>
+
+    </array>
+    <string-array name="places3">
+        <item>Anjing</item>
+        <item>Hamster</item>
+        <item>Ikan</item>
+        <item>Kambing</item>
+        <item>Kelinci</item>
+        <item>Kucing</item>
+        <item>Sapi</item>
+        <item>Unggas</item>
+
+    </string-array>
+
+    <string-array name="place_desc3">
+        <item>Anjing</item>
+        <item>Hamster</item>
+        <item>Ikan</item>
+        <item>Kambing</item>
+        <item>Kelinci</item>
+        <item>Kucing</item>
+        <item>Sapi</item>
+        <item>Unggas</item>
+
+    </string-array>
+
+    <string-array name="place_details3">
+        <item>Rabies \n\n Ciri: \n\n • Perubahan nada saat menggonggong.\n
+• Suka menggigit tidak jelas ke tempat tertentu. Biasanya kursi atau kaki meja akan digigit meski itu bukan kebiasaannya.\n
+• Tubuh mengalami demam. Untuk yang satu ini mungkin Anda susah membedakan.\n
+• Nafsu makan kian menurun.\n
+• Kebiasaan anjing sedikit berubah perlahan-lahan. Anjing yang awalnya suka mengajak bermain jadi mendadak diam dan murung.\n\n
+            Pertolongan : \n\nApabila anjing sudah menunjukkan indikasi demikian, segera bawa anjing ke klinik hewan atau dokter hewan untuk diberi vaksin. Karena virus ini akan cepat meyebar dan berbahaya apabila tidak segera ditangani.
+</item>
+        <item>Colds \n\n Ciri: \n\n Colds merupakan penyakit yang biasanya di derita oleh hamster. Penyebabnya kandang hamster kurang hangat atau udaranya cukup dingin dan lembab. Atau juga tak sengaja hamster terkana cipratan air yang mungkin sobat tidak tahu. Ciri-cirinya yaitu hamster akan terlihat sering bersin, hidung hamster akan terlihat lebih merah dan basah. Bisa di lihat nafasnya lebih berat seperti ngos-ngosan karna mungkin sulit bernafas.\n\n
+            Pertolongan : \n\nUntuk penanganannya yaitu pindahkan kandang hamster ditempat yang lebih hangat, beri makanan yang lembut dan mudah di kunyah untuk hamster dengan protein yang tinggi seperti kecambah atau jelly susu.
+Beri vitamin seperti VItagel untuk membantu pemulihan lebih cepat.
+Beri minuman hangat yang di campur madu murni agar si hamster lebih sering banyak minum karna ini menambah nafsu minum si hamster.
+</item>
+        <item>White Spot \n\n Ciri: \n\n •	Munculnya bitnik bitnik putih disekujur tubuh dan sirip.\n\n
+            Pertolongan : \n\n1.Pisahkan ikan yang terkena white spot dari ikan yang sehat.\n
+2.	Pindahkan pada wadah terpisah tetapi menggunakan air lama agar ikan tidak stress karena air baru bisa memperparah infeksi.\n
+3.	Taburkan garam ikan secukupnya untuk membasmi jamur.\n
+4.	Jika ikan berukuran besar maka bisa menggosok gosok white spot pada ikan agar rontok.\n
+5.	Biarkan selama 1-2 hari (tiap hari ganti airnya)\n
+6.	Jika white spot masih ada setelah 1-2 hari maka berikan obat ikan seperti obat biru, blitz itch, rid all, dan lainnya.\n
+7.	Jika white spot membandel kita bisa menggosokkan obat biru secara langsung pada ikan.\n
+</item>
+        <item>Keracunan \n\n Ciri: \n\nKeracunan disini adalah keracunan yang terjadi pada kambing. Tanda-tanda keracunan ialah mulut berbusa, kejang, kebiruan pada selaput lendir dan terkadang mati mendadak. Ternak jangan diberi hijauan beracun seperti, daun singkong dan daun dadap serep.\n\n
+            Pertolongan : \n\nUntuk pengobatannya apabila keracunan insektisida, kambing diberi air minum santan kelapa hangat 1 gelas. Namun apabila keracunan karena hal lain maka dengan minyak kelapa 1 gelas, air kelapa muda 1 gelas, garam 3 sendok makan, asam jawa secukupnya. Campur semua bahan sampai rata berikan pada ternak sebanyak 1/2 gelas. Berikan 3x dalam sehari.\n</item>
+        <item>Scabiosis \n\n Ciri: \n\n •	Terdapat luka seperti radang, burik atau budug pada kelinci, biasanya di kepala, telinga, kaki, dan kulit yang terbuka.
+•	Kelinci sering merasa gatal sehingga sering menggaruk garuk badannya , baik menggunakan cakar ataupun dengan benda lain.
+•	Pertumbuhan terhambat
+\n\n
+            Pertolongan : \n\n1.	Berikan makanan kering, hindari penggunaan makanan yang lembab dan berair. Bersihkan makanan sebelum diberikan.
+2.	Berikan desinfektan dan lakukan pembersihan kendang, jaga sanitasi pada kendang, jangan biarkan kendang menjadi lembab.
+3.	Isolasi atau pisahkan kelinci yang terserang penyakit, agar kelinci lain tidak tertular.
+\n</item>
+        <item> Feline Chlamydia \n\n Ciri: \n\n •Batuk\n
+• Bersin\n
+• Aneroksia\n
+• Radang paru-paru\n
+• Masalah pernapasan\n
+• Demam\n
+• Hilang nafsu makan\n
+• Hidung berwarna merah disertai pilek
+
+\n\n
+            Pertolongan Pertama: \n\n1.	Vaksinasi Chlamydia. Walaupun tidak 100% melindungi kucing dr penyakit ini, namun sangat membantu mencegah beberapa gejala klinis. Vaksinasi diperlukan juga di tempat2 yg bebas Clamydophila felis terutama pada tempat2 dengan populasi kucing yang padat seperti cattery, tempat penitipan, tempat penampungan dll.\n
+2.	Penggunaan desinfektan secara rutin pada peralatan yang dipakai kucing (kandang, mangkuk, alas tidur, litterbox dll.\n
+3.	Segera mencuci tangan setelah kontak dg kucing yg terinfeksi\n
+4.	Menjaga kebersihan lingkungan\n
+5.	Membatasi populasi kucing yg dipelihara. Tidak lebih dari 4 kucing dalam satu ruangan. Lebih sedikit lebih baik.\n
+6.	Apabila terdapat masalah infeksi pernafasan, mata berair, bersin pada salah satu kucing, hubungi dokter hewan anda untuk tes Chlamydia, apabila terbukti positif, semua kucing harus diberi perawatan.\n
+7.	Apabila kucing yg sedang hamil pernah terkena, sedang terkena atau kemungkinan terkena Clamydophila felis, segera hubungi dokter untuk treatment Chlamydia sebelum melahirkan untuk mengurang resiko metritis/pyometra dan penularan penyakit pada anak kucing. Zithromax dapat diberikan pada hari ke 58 masa kehamilan.\n\n
+.</item>
+        <item> PENYAKIT SURRA\n\nCiri: \n\n • Gerakan sapi menjadi tidak aturan (sempoyongan, jalan berputar putar/mubeng) jika sudah parah sering kejang – kejang.\n
+• Selaput lendir menguning.\n
+• Tidak ada nafsu makan dan bulu rontok.\n
+• Demam dan cepat Lelah.
+
+\n\n
+            Pertolongan : \n\n1. Penyemprotan insektisida di kandang ternak (biasanya sejenis asuntol) untuk mencegah datangnya serangga penghisap darah.\n
+2. Hindarkan kandang sapi dari tempat yang rawan menjadi sarang serangga (parit dan tempat lembab)\n
+3. Sisa - sisa pakan ternak jangan sampai membusuk di kandang\n
+4. Bila sapi luka, jangan sampai dibiarkan infeksi dan menjadi makanan bagi lalat\n
+5. Karantina sapi yang sakit dan berikan obat berupa atocyl maupun artosol, namun dalam penggunaannya hendaknya melalui konsultasi dengan dokter hewan setempat\n
+.</item>
+        <item>Kolera\n\n Ciri: \n\nPenyakit yang satu ini disebabkan bakteri Pasteurella multocida ataupun Pasteurella gallinarum yang menyerang ayam petelur dan ayam boiler. Penyakit ini menyerang pernafasan maupun pencernaan melalui kontak langsung, pakan, peralatan, manusia, tanah air minum dll. Penyakit ini bisa berakibat kronis dan berujung kematian. Gejala yang ada pada ayam yaitu nafsu makan berkurang, sesak nafas, jengger dan piall kebiruan, kotoran encer dan bau busuk.\n\n
+            Pertolongan : \n\nPengobatan bisa dilakukan dengan menggunakan koleridin atau bisa obat herbal seperti daun pepaya dan temuireng yang direbus.</item>
+
+
+    </string-array>
+
+    <string-array name="place_locations3">
+        <item>Cherry Eye \n\n Ciri: \n\nSakit mata pada anjing ini membuat kelenjar third eyeliner pada anjing yang berfungis sebagai tempat memproduksinya air mata keluar dari posisi normalnya dan kemudian membengkak. Hal ini tentu akan mempengaruhi kenyamanan anjing itu.\n\n
+            Pertolongan : \n\nSedangakan untuk pengobatannya pada cherry eye yang masih ringan yaitu dengan memberikan obat tetes mata / suntikan antibiotic-steroid sehari 4 kali selama 5-7 hari, namun sebelumnya kornea harus diperiksa dulu – apakah ada yang luka atau tidak. Pemberian antibiotic-steroid tersebut memungkinkan mengurangi pembengkakan kelenjar. Pada kasus Cherry Eye yang sudah membesar, terluka dan terinfeksi, maupun yang terlambat penanganannya atau tidak sembuh setelah diobati, maka operasi dibutuhkan untuk mereposisi ulang kelenjar tersebut agar dapat berfungsi kembali.</item>
+        <item>Reddish Urine \n\n Ciri: \n\nIni biasanya dapat di lihat dari urin hamster berwarna merah atau seperti keluar seikit darah. Biasanya terjadi karena pencampuran makanan pada hamster yang berlebihan. Atau salah dalam memberikan makanan.\n\n
+            Pertolongan : \n\nPenyembuhannya yaitu dengan mengganti makanan yang lebih berprotein dan sehat.</item>
+        <item>Infeksi Jamur \n\n Ciri: \n\n•	Tubuh ikan kurus.
+•	Tumbuh benang-benang halus disekitar luka yang terdapat pada tubuh ikan.\n\n
+            Pertolongan : \n\n1.	Menjaga kebersihan lingkungan\n
+2.	Mengganti air\n
+3.	Menjaga kualitas air\n
+4.	Rendam Ikan dalam larutan PK. sedikit PK (kurang lebih seujung korek api) dalam 2 liter air selama 10 menit\n
+5.	Pengobatan diulang selama 3 hari berturut-turut.\n
+.</item>
+        <item>-</item>
+        <item>Pasteurellosis \n\n Ciri: \n\n• Kelinci bersin-bersin dan batuk-batuk.\n
+• Terlihat cairan seperti ingus di hidung kelinci.\n
+• Radang pada hidung kelinci.\n
+• Mata kelinci mengeluarkan cairan dan disertai radang.
+\n\n
+            Pertolongan : \n\n1.Membersihkan ruang yang cukup luas dalam kendang untuk mengontrol sirkulasi udara.\n</item>
+        <item>Diabetes \n\n Ciri: \n\n•	Nafsu makan yang berlebihan\n
+• Kencing secara berlebihan dan tidak wajar\n
+• Peningkatan asupan air, kucing menjadi banyak minum\n
+• Penurunan berat badan yang drastis meski makannya banyak\n
+
+\n\n  Pertolongan : \n\n1.1.	Terapi Insulin.\n</item>
+        <item>PENYAKIT ANTHRAX \n\n Ciri: \n\n• Sapi demam, lemah dan mudah jatuh/ambruk\n
+• Radang pada bagian limpa dan akhirnya sapi menjadi diare\n
+• Banyak pendarahan di beberapa bagian tubuh, biasanya berwarna hitam (pada lubang hidung dan mulut, pori - pori dan pada lubang anus sapi)\n
+• Nafas tersengah – sengah\n
+• Pembengkakan pada bagian bawah perut\n
+• Bila sudah akut, sapi akan mati mendadak
+
+
+\n\n
+            Pertolongan : \n\n1. Vaksinasi spora avirulen secara berkala tiap tahun pada sapi yang belum terkena\n
+2. Pengecekan, pembersihan dan karantina jika pada suatu daerah sudah terkena antrax\n
+3. Jangan memberi makan sapi dengan akarnya, biasanya hijauan. Berikan rumputnya saja\n
+4. Jangan sering - sering kontak fisik dengan ternak jika tidak benar - benar darurat\n
+5. Jika sapi sudah terkena, berikan antibiotik dengan spektrum luas seperti Penisilin G, Oxytetracyclin, Streptomycin\n
+6. Hewan yang sudah mati jangan dibedah, jangan memegang langsung bagian luka. Langsung kubur saja bila perlu bakar bangkainya.
+\n</item>
+        <item>Tetelo\n\n Ciri: \n\nPenyakit ini menyerang ayam dan disebabkan oleh virus Paramyxo. Ciri ayam yang terkena yaitu terlihat lesu, nafsu makan berkurang, terlur menurun, gangguan saluran pernafasan, batuk, mulut berlendir, jengger dan kepala kebiru-biruan
+
+
+\n\n
+            Pertolongan : \n\n Mengenai penyembuhan, penyakit ini belum tersedia obatnya sehingga lebih baik lakukan tindakan pencegahan melalui vaksinasi ND ke dokter atau klinik.</item>
+
+
+    </string-array>
+    <string-array name="baru">
+        <item>Hepatitis \n\n Ciri: \n\nPenyakit infeksi hati pada anjing yang disebabkan virus tipe CAV-1 yang bisa menyebabkan kondisi kronis. Virus ini menyebar melalui tinja, air seni, darah dan air liur dari anjing tang telah terinfeksi. Jika ditularkan melalui hidung mulut atau hidung virus akan memperbanyak diri dalam amandel yang kemudian akan menyerang hati dan ginjal dengan periode inkubasi sekitar 4 sampai 7 hari.
+Gejala-gejala yang dialami anjing adalah demam, depresi, kurang nafsu makan dan sakit pada perut. Dalam beberapa kasus, gejala diikuti oleh pendarahan. Cara mengobati penyakit ini dilakukan sesuai gejala yang\n\n
+            Pertolongan : \n\nCara mengobati penyakit ini dilakukan sesuai gejala yang ada namun pada umumnya anjing akan sembuh sendiri tanpa dilakukan pengobatan. Namun pemilik anjing disarankan melakukan vaksin yang dikombinasikan dengan vaksin untuk penyakit lain. Vaksin ini akan membuat imunitas anjing lebih kuat terhadap virus selama empat tahun.</item>
+        <item>Constipation \n\n Ciri: \n\nHamster yang mengalami constipation atau dengan kata lain sembelit bisa terjadi karena penyumbatan di usus besar. Gejalanya yaitu kurangnya konsumsi makanan sayur dan buah-buahan, serbuk kayu yang termakan oleh si hamster, hamster akan merasa kesakitan dan tidak nyaman di sekitar perut hingga tidak mau makan.\n\n
+            Pertolongan : \n\nSedangkan cara menanganinya yaitu berikan makanan sayur dan buah-buahan  Berikan minyak zaitun langsung pada mulut hamster. Lakukan hal ini terus menerus selama sekitar 2 hari. Pastikan air yang di berikan air yang bersih dan fresh.</item>
+        <item>Cacing jangkar (Lernea sp.)\n\n Ciri: \n\n• Tubuh ikan menjadi kurus\n
+•	Luka atau pembengkakan bagian tubuh\n
+•	Cacing jangkar dewasa yang menempel di tubuh ikan akan terlihat dengan mata telanjang
+\n\n
+            Pertolongan : \n\n1.	Rendam ikan dalam larutan tetrasiklin 250 miligram/500 liter air selama 2-3 jam
+2.	Ulangi perendaman selama 3-4 hari berturut-turut.
+3.	Apabila ada cacing yang menempel, potong tubuhnya kemudian dibakar.
+\n</item>
+        <item>-</item>
+        <item>Diare atau Mucoid Enteritis\n\n Ciri: \n\n• Kotoran berwarna hijau \n
+• Kelinci sering kehausan\n
+• Telinga turun ke bawah
+
+\n\n
+            Pertolongan : \n\n1.Ubah pola makannya, bila sebelumnya menggunakan rumput hijau atau sayuran maka diganti dengan pellet atau hay (jerami).\n
+2.	Berikan minuman yang sudah dicampur antibiotic.\n
+3.	Bersihkan kendang sebaik mungkin.\n
+</item>
+        <item>Feline Calicivirus\n\n Ciri: \n\n•	Batuk\n
+• Pilek dan bersin\n
+• Cairan berlebih pada mata dan hidung\n
+• Luka (ulkus) seperti sariawan pada bibir, hidung, mulut, lidah yang membuat kucing tidak nafsu makan. Terkadang ulkus juga muncul disela-sela cakar\n
+• Demam tinggi\n
+• Sulit bernafas/peradangan paru-paru
+
+
+\n\n
+            Pertolongan : \n\n1. Tempatkan di ruangan yang terpisah aliran udaranya  dari kucing lain yang sehat.\n
+2. Beri makanan yang lunak, suapi bila kuncing tidak mau makan\n
+3. Beri nutrisi yang baik\n
+4. Bersihkan kotoran pada matan dan hidung.\n
+5. Berikan antibiotic untuk mencegah infeksi sekunder yang disebabkan oleh bakteri.
+\n</item>
+        <item>PENYAKIT INGUSAN (MALIGNANT CATHARRAL FEVER)\n\nCiri: \n\n1.•	Timbul cairan pada bagian hidung dan mata ternak, lama kelamaan akan berubah dari encer menjadi lebih kental\n
+•	Ternak mulai terlihat meneteskan air liur\n
+•	Bagian moncong kering dan terkadang keluar nanah\n
+•	Ternak terdengar sulit bernafas dan gemetar\n
+•	Bagian mata terlihat keruh dan cenderung memutih\n
+•	Jika sudah parah kulit ternak seperti terkelupas\n
+•	Sapi berjalan sempoyongan dan lemah, jaringan tubuh rusak dan sapi terlihat kurus\n
+•	Jika dibiarkan maka sapi akan lumpuh total dan mati\n
+
+
+
+\n\n
+            Pertolongan : \n\n1. Jangan sering menggembalakan sapi bersamaan dengan domba atau 	kambing\n
+2. Jauhkan kandang sapi dari kandang domba yang baru datang dan belum divaksinasi\n
+3. Kontrol kebersihan pakan yang akan dikonsumsi oleh sapi\n
+4. Jaga kebersihan dan sanitasi kandang\n
+5. Pisahkan dan karantina sapi yang terserang\n
+6. Usaha yang bisa kita lakukan adalah dengan pencegahan infeksi dengan antibiotik sehingga gejala tidak meluas\n
+7. Penyakit ini belum ada obat yang mampu menghilangkan secara keseluruhan, namun dapat hilang sendiri jika penanganan kita cepat dan sapi dipelihara dengan baik\n
+8. Usahakan penanganan secara langsung setelah terlihat gejala ringan, biasanya 4 hari setelah terserang sapi akan semakin memburuk\n
+9. Konsultasikan pada dokter hewan terkait pemakaian obat. Ingat, obati secara langsung setelah terlihat gejala ingusan, jangan terlambat.\n
+10. Ternak yang mati tetap dapat dipotong dan dikonsumsi, namun bagian yang terinfeksi harus dibuang.\n
+\n</item>
+        <item>Berak Kapur\n\n Ciri: \n\nPenyakit ini menyerang berbagai jenis unggas. Nama lainnya adalah Salmonellosis. Penyakit berak kapur bersifat menular. Tanda-tanda atau gejala serangan yang dapat dilihat adalah kotoran burung berbentuk cair dan berwarna putih seperti kapur, nafsu makan menurun, pada stadium tertentu burung mengalami kesulitan membuang kotoran.
+
+\n\n
+            Pertolongan : \n\nUnggas yang sudah terinfeksi  ini dberi obat antibiotik secara intensif sesuai dengan petunjuk yang ada. Penggunaan obat antibiotik tidak boleh sembarangan, sebab jika kita tidak tahu secara pasti justru berakibat fatal. Jangan lupa untuk pisahkan hewan yang terinfeksi tersebut dari hewan lainnya.\n</item>
+
+    </string-array>
+
+    <array name="places_picture3">
+        <item>@drawable/t1</item>
+        <item>@drawable/t2</item>
+        <item>@drawable/t3</item>
+        <item>@drawable/t4</item>
+        <item>@drawable/t5</item>
+        <item>@drawable/t6</item>
+        <item>@drawable/t7</item>
+        <item>@drawable/t8</item>
+
+
+    </array>
+
+    <string-array name="placesr">
+        <item>Dokter Hewan Dedy Ananto</item>
+        <item>Didi Pet House</item>
+
+    </string-array>
+
+    <string-array name="place_descr">
+        <item>Dokter Dedy Ananto</item>
+        <item>Didi Pet House</item>
+
+    </string-array>
+
+    <string-array name="place_detailsr">
+        <item> H1B30 Sawojajar, Jl. Danau Sentani, Madyopuro, Kedungkandang, Kota Malang, Jawa Timur 65139 (0838-3476-3800)</item>
+        <item>Jl. Danau Kerinci Raya C2 No. F16, Sawojajar, Kedungkandang, Sawojajar, Kedungkandang, Kota Malang, Jawa Timur 65139 (0821-2256-2525)</item>
+
+
+
+    </string-array>
+
+    <string-array name="place_locationsr">
+        1<item tools:ignore="TypographyDashes">Senin 08.00–10.00,16.00-18.00\nSelasa 08.00–10.00,16.00-18.00\nRabu 08.00–10.00,16.00-18.00\nKamis 08.00–10.00,16.00-18.00\nJumat 08.00–10.00,16.00-18.00\nSabtu 08.00–10.00,16.00-18.00\nMinggu 08.00–10.00,16.00-18.00</item>
+        2        <item>Senin 08.00–21.00\nSelasa 08.00–21.00\nRabu 08.00–21.00\nKamis 08.00–21.00\nJumat 08.00–21.00\nSabtu 08.00–21.00\nMinggu 08.00–21.00</item>
+
+
+
+
+    </string-array>
+
+    <array name="places_picturer">
+        <item>@drawable/rr</item>
+        <item>@drawable/s9</item>
+
+
+    </array>
+</resources>
